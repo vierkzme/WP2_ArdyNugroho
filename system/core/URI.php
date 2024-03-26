@@ -59,6 +59,13 @@ class CI_URI {
 	public $keyval = array();
 
 	/**
+	 * List of cached URI segments
+	 *
+	 * @var	CI_Config
+	 */
+	public $config = array();
+
+	/**
 	 * Current URI string
 	 *
 	 * @var	string
