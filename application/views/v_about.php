@@ -3,8 +3,8 @@
 
     <h4>Nama</h4> 
     <ul type="disc"> 
-        <li>Nama Depan : Imam</li> 
-        <li>Nama Belakang : Nawawi</li> 
+        <li>Nama Depan : Ardy</li> 
+        <li>Nama Belakang : Nugroho</li> 
     </ul> 
 
     <h4>Alamat</h4> 
@@ -14,7 +14,7 @@
 
     <h4>Tempat Lahir</h4> 
     <ul type="none"> 
-        <li>Cirebon</li> 
+        <li>Jakarta</li> 
     </ul> 
 
     <h4>Olah Raga Favorit</h4> 
