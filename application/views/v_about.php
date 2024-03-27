@@ -9,7 +9,7 @@
 
     <h4>Alamat</h4> 
     <ul type="none"> 
-        <li>Jalan Ciledug Raya No. 168 Pesanggrahan</li> 
+        <li>Kota Depok</li> 
     </ul> 
 
     <h4>Tempat Lahir</h4> 
