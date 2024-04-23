@@ -17,8 +17,8 @@
                     </td>
                 </tr>
                 <tr>
-                    <th>Kode MTK</th>
-                    <th>:</th>
+                    <td>Kode MTK</td>
+                    <td>:</td>
                     <td>
                         <?= $kode; ?>
                     </td>
@@ -31,7 +31,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>SKS</td>
+                    <td>SKS</td> 
                     <td>:</td>
                     <td>
                         <?= $sks; ?>

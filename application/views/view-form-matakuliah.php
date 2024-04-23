@@ -12,7 +12,7 @@
                         Form Input Data Mata Kuliah
                     </th>
                 </tr>
-                <tr>
+                <tr> 
                     <td colspan="3">
                         <hr>
                     </td>
@@ -21,14 +21,14 @@
                     <th>Kode MTK</th>
                     <th>:</th>
                     <td>
-                        <input type="text" name="kode" id="kode">
+                        <input type="text" name="kode" id="kode" placeholder="required">
                     </td>
                 </tr>
                 <tr>
                     <th>Nama MTK</th>
                     <td>:</td>
                     <td>
-                        <input type="text" name="nama" id="nama">
+                        <input type="text" name="nama" id="nama" placeholder="required">
                     </td>
                 </tr>
                 <tr>
