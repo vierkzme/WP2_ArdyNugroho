@@ -20,7 +20,7 @@
 
     <!-- Nav Item - Dashboard -->
     <li class="nav-item active">
-        <a class="nav-link pb-0" href="<?= base_url('admin/index'); ?>">
+        <a class="nav-link pb-0" href="<?= base_url('admin'); ?>">
             <i class="fa fa-fw fa-book"></i>
             <span>Data Buku</span>
         </a>
@@ -32,9 +32,15 @@
         </a>
     </li>
     <li class="nav-item">
-        <a class="nav-link pb-0" href="<?= base_url('kategori'); ?>">
+        <a class="nav-link pb-0" href="<?= base_url('buku/kategori'); ?>">
             <i class="fa fa-fw fa-list"></i>
             <span>Kategori Buku</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link pb-0" href="<?= base_url('buku'); ?>">
+            <i class="fa fa-fw fa-list"></i>
+            <span>Ubah Buku</span>
         </a>
     </li>
     <!-- Divider -->
